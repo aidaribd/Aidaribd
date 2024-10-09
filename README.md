@@ -10,15 +10,14 @@ My passion for solving complex problems and making data-driven decisions led me 
 
 - **Языки программирования / Programming Languages**: Python (pandas, NumPy, Scikit-learn), SQL  
 - **Фреймворки машинного обучения / Machine Learning Frameworks**: TensorFlow, PyTorch  
-- **Инструменты для анализа данных / Data Analysis Tools**: Jupyter, Tableau, Power BI  
+- **Инструменты для анализа данных / Data Analysis Tools**: Jupyter  
 - **Базы данных / Databases**: MySQL, PostgreSQL  
-- **Другие инструменты / Other Tools**: Git, Docker  
-- **Облачные платформы / Cloud Platforms**: Google Cloud, AWS  
+- **Другие инструменты / Other Tools**: Git, Docker
 - **Системы контроля версий / Version Control**: GitHub, GitLab
 
 # Профессиональные ссылки / Professional Links
 
-- [LinkedIn](https://www.linkedin.com/in/%D0%B0%D0%B9%D0%B4%D0%B0%D1%80-%D0%B8%D0%B1%D0%B0%D0%B4%D1%83%D0%BB%D0%BB%D0%B0%D0%B5%D0%B2-))  
+- [LinkedIn](https://www.linkedin.com/in/%D0%B0%D0%B9%D0%B4%D0%B0%D1%80-%D0%B8%D0%B1%D0%B0%D0%B4%D1%83%D0%BB%D0%BB%D0%B0%D0%B5%D0%B2-)  
 - [GitHub](https://github.com/aidaribd)
 
 # Статус занятости / Job Search Status
